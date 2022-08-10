@@ -10,5 +10,5 @@ Gostou do curso? Quer mais? Ajude com uma doação, até um café é valido =)
 
 Outros cursos em : [willian justen cursos](http://willianjusten.teachable.com)
 
-Teste alteração bla bla bla
+Teste alteração
 
