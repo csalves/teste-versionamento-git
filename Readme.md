@@ -2,7 +2,7 @@
 
 git config --global user.name "Claudio Alves" -> Define nome do usuário do projeto
 
-git config --global user.email "claudio_alvesmith@inmetrics.com.br" -> Define o e-mail do projeto
+git config --global user.email "teste@teste.com" -> Define o e-mail do projeto
 
 git config --global core.editor vim (ou vi)(ou emacs subl (ou s)) -> Define o editor padrão que será usado no projeto
 
