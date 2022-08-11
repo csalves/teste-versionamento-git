@@ -1,4 +1,4 @@
-# Principais comandos do Git:
+## Principais comandos do Git:
 
 git config --global user.name "Claudio Alves" -> Define nome do usuário do projeto
 
@@ -138,7 +138,8 @@ git push origin :1.0.1 -> Apaga a tag no repositório remoto
 
 
 git push origin :testeapagar -> Apaga a branch no repositório remoto
-----------------------------------
+
+------------------------------------------------------------------------------------------------------------------
 
 # Git Course
 
